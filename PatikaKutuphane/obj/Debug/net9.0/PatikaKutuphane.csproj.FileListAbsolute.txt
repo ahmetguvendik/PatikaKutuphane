@@ -1,0 +1,14 @@
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/bin/Debug/net9.0/PatikaKutuphane
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/bin/Debug/net9.0/PatikaKutuphane.deps.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/bin/Debug/net9.0/PatikaKutuphane.runtimeconfig.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/bin/Debug/net9.0/PatikaKutuphane.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/bin/Debug/net9.0/PatikaKutuphane.pdb
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/obj/Debug/net9.0/PatikaKutuphane.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/obj/Debug/net9.0/PatikaKutuphane.AssemblyInfoInputs.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/obj/Debug/net9.0/PatikaKutuphane.AssemblyInfo.cs
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/obj/Debug/net9.0/PatikaKutuphane.csproj.CoreCompileInputs.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/obj/Debug/net9.0/PatikaKutuphane.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/obj/Debug/net9.0/refint/PatikaKutuphane.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/obj/Debug/net9.0/PatikaKutuphane.pdb
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/obj/Debug/net9.0/PatikaKutuphane.genruntimeconfig.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/PatikaKutuphane/PatikaKutuphane/obj/Debug/net9.0/ref/PatikaKutuphane.dll
