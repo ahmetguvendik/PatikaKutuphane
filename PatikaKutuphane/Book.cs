@@ -24,3 +24,7 @@ public class Book
         CreatedDate = DateTime.Now;
     }
 }
+
+//Class : Nesnelerimizi temsil etmektede ve kullanmamizi saglamaktadir.
+//Property : Bir siniftaki verileri tutmaya ve islemeye yarar. 
+//Constructor: Bir siniftan nesne olusturulurken ilk cagrilan methottur. Parametreli ya da parametresiz olarak kullanilabilir
